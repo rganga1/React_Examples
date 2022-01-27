@@ -1,8 +1,8 @@
-
+import SearchFilter from "./SearchFilter";
 
 
 export default function App() {
   return (
-   <div>Hello</div>
+   <SearchFilter />
   );
 }
